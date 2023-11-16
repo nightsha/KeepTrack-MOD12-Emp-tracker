@@ -1,5 +1,6 @@
 # KeepTrack-MOD12-Emp-tracker
 Tracking employees made easier.
+<!-- Used Zack Huston's Employee Tracker reposistory from gitHub for inspiration and coding -->
 
 <!-- video of employee tracker from cybrosys.com/employee-tracker/ --><iframe src="https://drive.google.com/file/d/1vJca4F7gX9qc0ioB9FNAZMXzqmeBWqYD/preview" width="640" height="480"></iframe>
 
